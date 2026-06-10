@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#0F6E56"/>
+  <text x="256" y="330" font-size="240" font-family="PingFang SC, Hiragino Sans GB, sans-serif"
+    fill="#ffffff" text-anchor="middle" font-weight="600">旅</text>
+</svg>
